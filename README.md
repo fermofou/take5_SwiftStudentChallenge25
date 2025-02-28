@@ -20,7 +20,7 @@ A mental health app designed to help users manage stress and anxiety through gro
    ```sh
    git clone https://github.com/fermofou/take5_SwiftStudentChallenge25.git
    ```
-2. Open the project in Xcode.
+2. Open the project in Xcode or Playground.
 3. Build and run on an iOS simulator or physical device.
 
 ## Technologies Used
