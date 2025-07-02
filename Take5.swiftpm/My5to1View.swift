@@ -24,7 +24,7 @@ struct My5to1View: View {
         ("touch", "4 things you can feel"),
         ("ear", "3 things you can hear"),
         ("nose", "2 things you can smell"),
-        ("mouth", "1 thing you can touch")
+        ("mouth", "1 thing you can taste")
     ]
     
     let colors: [Int: Color] = [
