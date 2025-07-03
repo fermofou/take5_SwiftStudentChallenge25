@@ -1,5 +1,9 @@
 # Take5
 
+
+[![Watch the demo](https://img.youtube.com/vi/KHa8ZE4fGfI/0.jpg)](https://youtu.be/KHa8ZE4fGfI)
+
+
 A mental health app designed to help users manage stress and anxiety through grounding techniques like the **5-4-3-2-1 method**, **box breathing**, and an interactive **clicker game** for distraction.
 
 ## Features
